@@ -1,0 +1,12 @@
+2023-04-17 12:30:25 [main] INFO  c.example.demo.DemoApplicationTests - Starting DemoApplicationTests using Java 18.0.2.1 on LeMonade with PID 24994 (started by quanla in /home/lebugcat/Downloads/demo (6)/spring_data_redis)
+2023-04-17 12:30:25 [main] DEBUG c.example.demo.DemoApplicationTests - Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-17 12:30:25 [main] INFO  c.example.demo.DemoApplicationTests - No active profile set, falling back to 1 default profile: "default"
+2023-04-17 12:30:27 [main] INFO  c.example.demo.DemoApplicationTests - Started DemoApplicationTests in 1.631 seconds (JVM running for 2.408)
+2023-04-17 12:30:32 [main] INFO  com.example.demo.DemoApplication - Starting DemoApplication v0.0.1-SNAPSHOT using Java 18.0.2.1 on LeMonade with PID 25095 (/home/lebugcat/Downloads/demo (6)/spring_data_redis/target/demo-0.0.1-SNAPSHOT.jar started by quanla in /home/lebugcat/Downloads/demo (6)/spring_data_redis)
+2023-04-17 12:30:32 [main] DEBUG com.example.demo.DemoApplication - Running with Spring Boot v2.7.10, Spring v5.3.26
+2023-04-17 12:30:32 [main] INFO  com.example.demo.DemoApplication - No active profile set, falling back to 1 default profile: "default"
+2023-04-17 12:30:34 [main] INFO  com.example.demo.DemoApplication - Started DemoApplication in 2.313 seconds (JVM running for 2.851)
+2023-04-17 12:30:37 [http-nio-8080-exec-1] DEBUG c.e.demo.controller.WebController - com.example.demo.dto.request.RequestObject@70f7441d
+2023-04-17 12:31:14 [http-nio-8080-exec-3] DEBUG c.e.demo.controller.WebController - com.example.demo.dto.request.RequestObject@44d34400
+2023-04-17 12:31:14 [http-nio-8080-exec-3] ERROR c.e.demo.controller.WebController - Not found key
+2023-04-17 12:31:14 [http-nio-8080-exec-3] ERROR c.e.demo.controller.WebController - com.example.demo.dto.request.RequestObject@44d34400
